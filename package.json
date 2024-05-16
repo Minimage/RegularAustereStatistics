@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "agenda": "^5.0.0",
+    "axios": "^1.6.8",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "imagemin": "^9.0.0",
+    "instagram-private-api": "^1.46.1",
+    "mongoose": "^8.3.4",
+    "node-cron": "^3.0.3",
+    "nodemon": "^3.1.0",
+    "png-to-jpeg": "^1.0.1",
+    "request-promise": "^4.2.6",
+    "request-promise-native": "^1.0.9",
+    "sharp": "^0.33.4"
+  }
+}
