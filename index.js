@@ -83,7 +83,7 @@ mongoose
 
       // Schedule cron job to run at 3:20 pm New York time
       cron.schedule(
-        "31 16 * * *",
+        "12 18 * * *",
         () => {
           console.log("Running cron job...");
           fetchDataAndCheckDates();
